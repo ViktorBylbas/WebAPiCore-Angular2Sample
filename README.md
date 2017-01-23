@@ -22,3 +22,5 @@ npm install gulp gulp-clean gulp-concat gulp-less gulp-sourcemaps gulp-typescrip
 Чтобы найти по имени мы можем использовать ту же команду с опцией --name: typings search --name jquery
 Чтобы установить декларативные файлы библиотеки необходимо выполнить: typings install dt~jquery --global --save
 По окончанию: typings install
+
+https://apellsin.com/typescript/typescript-typings.html
