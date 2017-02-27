@@ -4,6 +4,8 @@
 
 После - typings: npm install typings --global
 
+Установка typings: typings install
+
 Затем запустить Task Runner Explorer gulp или grunt
 
 # package.json install dependencies
